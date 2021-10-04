@@ -1,0 +1,2 @@
+Loto - Google Chrome Extension
+==================================
